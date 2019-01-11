@@ -10,3 +10,4 @@ public class SpringBootJwtAuthenticationApplication {
 		SpringApplication.run(SpringBootJwtAuthenticationApplication.class, args);
 	}
 }
+
